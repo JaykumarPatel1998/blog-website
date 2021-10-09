@@ -9,7 +9,7 @@ date: 2021-05-01
 tags:
   - post
   - featured
-image: /assets/blog/article-1.jpg
+image: https://source.unsplash.com/random?macbook
 imageAlt: This is a model of macbook
 ---
 
